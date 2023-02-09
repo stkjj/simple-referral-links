@@ -4,8 +4,9 @@
 Plugin Name: Referral Links Plugin
 Plugin URI: https://github.com/stkjj/simple-referral-links
 GitHub Plugin URI: https://github.com/stkjj/simple-referral-links
+Primary Branch: main
 Description: A plugin for tracking sales through referral links in WooCommerce
-Version: 1.0
+Version: 1.0.3
 Author: KeDe Digital LLP
 Author URI: https://digital-bridge.de
 */

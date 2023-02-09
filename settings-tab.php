@@ -1,3 +1,5 @@
+<?
+
 function referral_links_add_settings_page() {
     add_submenu_page(
         'woocommerce',
