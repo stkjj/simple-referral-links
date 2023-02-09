@@ -167,7 +167,7 @@ function referer_dashboard() {
 		wp_redirect(admin_url('admin.php?page=referer_dashboard'));
 		exit;
 	}
-
+}
 }
 
 // Initialize the plugin
