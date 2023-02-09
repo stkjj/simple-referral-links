@@ -10,6 +10,8 @@ Author: KeDe Digital LLP
 Author URI: https://digital-bridge.de
 */
 
+include 'settings_tab.php';
+
 function referral_links_plugin_init() {
     // Check if WooCommerce is active
     if ( ! in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', get_option( 'active_plugins' ) ), true ) ) {
